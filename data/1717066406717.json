@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hola.com",
+    "type": "domain",
+    "relationshipType": "referrer_files",
+    "relationshipId": "aaaaaaaaa"
+  },
+  {
+    "id": "hola.com",
+    "type": "domain",
+    "relationshipType": "downloaded_files",
+    "relationshipId": "aaaaaa"
+  },
+  {
+    "id": "hola.com",
+    "type": "domain",
+    "relationshipType": "downloaded_files",
+    "relationshipId": "bbbbb"
+  },
+  {
+    "id": "hola.com",
+    "type": "domain",
+    "relationshipType": "downloaded_files",
+    "relationshipId": "cccccc"
+  }
+]
