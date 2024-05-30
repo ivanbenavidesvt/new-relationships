@@ -1,0 +1,5 @@
+id,type,relationshipType,relationshipId
+hola.com,domain,referrer_files,aaaaaaaaa
+hola.com,domain,downloaded_files,aaaaaa
+hola.com,domain,downloaded_files,bbbbb
+hola.com,domain,downloaded_files,cccccc
