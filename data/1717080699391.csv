@@ -1,0 +1,8 @@
+id,type,relationshipType,relationshipId
+hola.com,domain,referrer_files,aaaaaaaaa
+hola.com,domain,downloaded_files,aaaaaa
+hola.com,domain,downloaded_files,bbbbb
+hola.com,domain,downloaded_files,cccccc
+aaaaaaaaa,file,similar_files,http://aaaaa.com
+aaaaaaaaa,file,embedded_ips,asjfkjdsafjhhfdsahdsahfhhfdshdsahfdsahfdsahfhjdsajhffjhlkdsafljhdsaflhjsdakjhfhdsafjhdsa
+e68cbc75a9d60a827f816a75e79df7981854a4d81fc6b1c1e152d70d4e483bce,url,redirecting_urls,dsafdsafdsfdsafdsafdsaf
